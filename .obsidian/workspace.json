@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "72b3cd5ed20be5bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "99a384f25aa09da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d53ec9c64b9c6f19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "208ea297acfc7721",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3cdf9c3d625e8ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cbb9e0369036aef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "751e4f1b6ac6e76b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f9237f48f3c2a51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8a7695d04f53465",
+    "type": "split",
+    "children": [
+      {
+        "id": "f48d89e0d9faacee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0b169c3be3bac46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/plan/progress.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for progress"
+            }
+          },
+          {
+            "id": "81c88fc082d58543",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/plan/progress.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from progress"
+            }
+          },
+          {
+            "id": "97e1cd43fb207d85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "96359dc3f54bb620",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/plan/progress.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of progress"
+            }
+          },
+          {
+            "id": "d1fed0222737389b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "8cbb9e0369036aef",
+  "lastOpenFiles": [
+    "Homelab/info.md",
+    "Linux/LinuxProgramsSetupUser.md",
+    "Homelab",
+    "DNS/dns-shit.md",
+    "Linux",
+    "DNS",
+    "docs/README.md",
+    "docs/plan/progress.md",
+    "backend/db-handler/schemas/user.py",
+    "backend/db-handler/database/models/user.py",
+    "backend/db-handler/database/models/User.py",
+    "backend/db-handler/queue_handler.py",
+    "backend/main/queue_handler.py",
+    "backend/db-handler/schemas",
+    "backend/db-handler/database/crud",
+    "README.md"
+  ]
+}
