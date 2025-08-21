@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "72b3cd5ed20be5bb",
+    "id": "f46a51b06c4d5295",
     "type": "split",
     "children": [
       {
-        "id": "99a384f25aa09da8",
+        "id": "07576a58a15ab1c2",
         "type": "tabs",
         "children": [
           {
-            "id": "d53ec9c64b9c6f19",
+            "id": "ce2323fe799893a5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "208ea297acfc7721",
+    "id": "272a25e20a36a342",
     "type": "split",
     "children": [
       {
-        "id": "e3cdf9c3d625e8ae",
+        "id": "d6d8dfab1bded03c",
         "type": "tabs",
         "children": [
           {
-            "id": "8cbb9e0369036aef",
+            "id": "31c1ed4411771915",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "751e4f1b6ac6e76b",
+            "id": "7d04efef4bc36917",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "6f9237f48f3c2a51",
+            "id": "41018c56065e4899",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "a8a7695d04f53465",
+    "id": "b514a0e02b079f8f",
     "type": "split",
     "children": [
       {
-        "id": "f48d89e0d9faacee",
+        "id": "caa4cab9d69f0a5d",
         "type": "tabs",
         "children": [
           {
-            "id": "b0b169c3be3bac46",
+            "id": "c2034583bbb633c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/plan/progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for progress"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "81c88fc082d58543",
+            "id": "f1eb0cbd45d6ca78",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/plan/progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from progress"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "97e1cd43fb207d85",
+            "id": "61a49f8a1eea832a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,36 +131,25 @@
             }
           },
           {
-            "id": "96359dc3f54bb620",
+            "id": "3c6e12454c8f2794",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/plan/progress.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of progress"
-            }
-          },
-          {
-            "id": "d1fed0222737389b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,27 +159,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cbb9e0369036aef",
+  "active": "ce2323fe799893a5",
   "lastOpenFiles": [
-    "Homelab/info.md",
-    "Linux/LinuxProgramsSetupUser.md",
-    "Homelab",
-    "DNS/dns-shit.md",
-    "Linux",
-    "DNS",
-    "docs/README.md",
-    "docs/plan/progress.md",
-    "backend/db-handler/schemas/user.py",
-    "backend/db-handler/database/models/user.py",
-    "backend/db-handler/database/models/User.py",
-    "backend/db-handler/queue_handler.py",
-    "backend/main/queue_handler.py",
-    "backend/db-handler/schemas",
-    "backend/db-handler/database/crud",
-    "README.md"
+    "Notizen.md",
+    "Untitled",
+    "Welcome.md"
   ]
 }
