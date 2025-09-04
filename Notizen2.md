@@ -40,6 +40,7 @@ PL nimmt Mitarbeiter aus mehreren Abteilungen raus. Also bspw. 1 Informatiker, 1
 
 **Vorteile**
 - 100% beim Projekt
+- schnell
 
 **Nachteile**
 - MAs müssen ausgegliedert werden (aus Abteilungen)
@@ -65,6 +66,7 @@ MAs so rausnehmen, dass es eine Matrixorganisation gibt.
 - 2 Chefs
 - Je nach % Aufteilung können Projekte schiefgehen
 - Meistens hat AL mehr Rechte (also ist Projektleiter gewissermassen im Nachteil)
+- Langsam
 
 ### Stab Projekt
 
@@ -82,4 +84,4 @@ MAs so rausnehmen, dass es eine Matrixorganisation gibt.
 - Projektrisiko
 - Nur Teilzeit unter 20%
 
-Personen können zugeordnet werden am PL, was heisst meistens Teilzeit <20%. AL 
+Personen können zugeordnet werden am PL, was heisst meistens Teilzeit <20%. 
